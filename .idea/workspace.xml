@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14b181b8-8d37-4022-a53f-562dd68b07db" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/djamba/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/djamba/Bootstrap.java" afterDir="false" />
-    </list>
+    <list default="true" id="14b181b8-8d37-4022-a53f-562dd68b07db" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,26 +24,8 @@
       <file leaf-file-name="Bootstrap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/Bootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FbRessource.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/FbRessource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="24" column="45" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FbService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/FbService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="331">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
             </state>
           </provider>
         </entry>
@@ -62,6 +42,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,17 +93,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="todoapp1" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Djamba" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,7 +160,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todoapp1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Djamba" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -218,7 +203,7 @@
     <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="MAIN_CLASS_NAME" value="com.djamba.Bootstrap" />
-      <module name="todoapp1" />
+      <module name="Djamba" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -271,6 +256,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="Application.Bootstrap" />
       </list>
     </recent_temporary>
   </component>
@@ -297,14 +283,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20470000" />
+    <option name="totallyTimeSpent" value="20513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Messages" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -312,11 +298,11 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3286385" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32792208" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32954547" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18381241" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18683812" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -324,41 +310,62 @@
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info id="Designer" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.18381241" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.3286385" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="1" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3286385" />
-      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32954547" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.3286385" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17789166" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.3286385" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3286385" />
+      <window_info anchor="bottom" id="Messages" order="4" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
@@ -394,6 +401,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refine architecture of the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="refine architecture of the project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/Bootstrap.java">
@@ -539,13 +550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/TodoResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/FbService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -560,10 +564,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/Bootstrap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/TodoResource.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="18" column="72" selection-start-line="18" selection-start-column="72" selection-end-line="18" selection-end-column="72" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/djamba/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
         </state>
       </provider>
     </entry>

@@ -2,14 +2,14 @@ package com.djamba;
 
 import static spark.Spark.get;
 
-public class FbRessource {
+public class DispatcherRessource {
 
     private static final String API_CONTEXT = "/api/v1";
 
-    private final FbService fbService;
+    private final DispatcherService dispatcherService;
 
-    public FbRessource(FbService fbService) {
-        this.fbService = fbService;
+    public DispatcherRessource(DispatcherService dispatcherService) {
+        this.dispatcherService = dispatcherService;
         setupEndpoints();
     }
 
@@ -22,7 +22,7 @@ public class FbRessource {
 
         get(API_CONTEXT + "/chat", "application/json", (request, response)
 
-                -> fbService.getHelloMessage(), new JsonTransformer());
+                -> dispatcherService.getHelloMessage(), new JsonTransformer());
 
 //        get(API_CONTEXT + "/todos", "application/json", (request, response)
 //
