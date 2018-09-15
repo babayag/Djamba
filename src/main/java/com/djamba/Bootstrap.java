@@ -16,7 +16,7 @@ public class Bootstrap {
         staticFileLocation("/public");
         //new TodoResource(new TodoService(mongo()));
 
-        new FbRessource(new FbService("TEST angular + spark effectif"));
+        new DispatcherRequest(new DispatcherService("TEST angular 2 + spark effectif"));
     }
 
 //    private static DB mongo() throws Exception {

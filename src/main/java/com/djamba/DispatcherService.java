@@ -1,10 +1,10 @@
 package com.djamba;
 
-public class FbService {
+public class DispatcherService {
 
     private String helloMessage = "message hello";
 
-    public FbService(String helloMessage) {
+    public DispatcherService(String helloMessage) {
         this.helloMessage = helloMessage;
     }
 
